@@ -5,6 +5,7 @@
 * Ciberseguradad: Metasploit + WireShark + Pentesting + Entre otros
 * Diseño de paginas Web: Django + Flask + HTML + CSS + PHP + Base de Datos + Entre otros
 * Inteligencia Artificial
+* Idiomas: Ingles + Aleman
 
 - 🌱 Luego pienso dedicarle mas tiempo a: 
 * Aplicaciones Moviles: Android Estudio
