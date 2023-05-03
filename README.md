@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Jimmy Reyes.
+- 👋 Hola, mi nombre es Jimmy Reyes.
 
 - 👀 Estoy estudiando: 
 * Master en Full Stack
@@ -9,11 +9,9 @@
 * Ciberseguradad: Metasploit + WireShark + Pentesting + Entre otros
 * Blockchain: Solidity + Remix
 * Criptomonedas + Tokens
-* NFT: NodeJs + React (Aplicaciones)
+* NextJS - NodeJs + React (Aplicaciones)
 * Trading Forex (desde el 2011) - elbaulforex.com
 * Reparacion de computadoras (Certificado)
 
-
-- 💞️ Me gustaria entrar en alguna comunidad para asi desarrollar mi aprendizaje y aportar a dicha comunidad.
 
 - 📫 Me pueden contactar para cualquier sugerencia o pregunta.
