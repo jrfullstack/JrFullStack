@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Jimmy Reyes.
+👋 Hola, mi nombre es Jimmy Reyes y soy un apasionado del mundo de la programacion, aqui te dejo mis algunas de mis habilidades tecnicas.
 
 ## Full Stack Developer: 
 * HTML5 + CSS + JavaScript + TypeScript
@@ -7,5 +7,4 @@
 * NodeJS - ExpressJS -
 * MySql - PostgresSql - MongoDB
 * Docker - Kubernetes - AWS - Git
-
 * Idiomas: Aleman B1 - Ingles Basico (Estudiando)
