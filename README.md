@@ -7,4 +7,4 @@
 * NodeJS - ExpressJS -GraphQl
 * MySql - PostgresSql - MongoDB
 * Docker - Kubernetes - AWS - Git
-* Idiomas: Aleman B1 - Ingles Basico (Estudiando)
+* Español - Aleman B1 - Ingles Basico (Estudiando)
