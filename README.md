@@ -1,4 +1,4 @@
-👋 Hola, mi nombre es Jimmy Reyes y soy un apasionado del mundo de la programacion, aqui te dejo mis algunas de mis habilidades tecnicas.
+👋 Hola, JR Full Stak y soy un apasionado del mundo de la programacion, aqui te comparto algunas de mis habilidades tecnicas.
 
 ## Full Stack Developer: 
 * HTML5 + CSS + JavaScript + TypeScript
