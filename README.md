@@ -4,7 +4,7 @@
 * HTML5 + CSS + JavaScript + TypeScript
 * Tailwind - Material UI - Bootstrap
 * ReactJS - React Native - NextJS - AstroJS
-* NodeJS - ExpressJS -GraphQl
+* NodeJS - ExpressJS -GraphQL
 * MySql - PostgresSql - MongoDB
 * Docker - Kubernetes - AWS - Git
 * Español - Aleman B1 - Ingles Basico (Estudiando)
