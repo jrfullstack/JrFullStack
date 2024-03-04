@@ -1,10 +1,10 @@
 👋 Hola, JR Full Stak y soy un apasionado del mundo de la programacion, aqui te comparto algunas de mis habilidades tecnicas.
 
 ## Full Stack Developer: 
-* HTML5 + CSS + JavaScript + TypeScript
+* HTML5 + CSS3 + JavaScript + TypeScript
 * Tailwind - Material UI - Bootstrap
-* ReactJS - React Native - NextJS - AstroJS
-* NodeJS - ExpressJS -GraphQL
+* ReactJS - NextJS - AstroJS
+* NodeJS - ExpressJS - GraphQL
 * MySql - PostgresSql - MongoDB - Prisma
-* Docker - Kubernetes - AWS - Git
-* Español - Aleman B1 - Ingles Basico (Estudiando)
+* Docker - AWS - Git
+* Spanish - German B1 - English Basic (Studying)
